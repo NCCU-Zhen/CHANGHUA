@@ -224,7 +224,7 @@
 		
 		ul.style li {
 			margin: 0;
-			padding: 2em 0em 1.5em 0em;
+			padding: 0.7em 0em 0.7em 0em;
 			border-top: 1px solid #ECECEC;
 		}
 		
@@ -291,7 +291,7 @@
 	#header
 	{
 		position:static;
-		background: #2a2f27 url(../images/網頁banner.jpg) no-repeat;
+		background: #2a2f27 url(../images/banner1.jpg) no-repeat;
 		background-size:cover;
 	}
 
