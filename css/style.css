@@ -261,6 +261,8 @@
 		.button
 		{
 			position: relative;
+            clear:left;
+            float:right;
 			display: inline-block;
 			margin-top: 1em;
 			padding: 0.70em 1.0em;
@@ -633,4 +635,10 @@ figure.behave:hover p {
 
 #activity{
 	text-align: center;
+}
+
+word{
+    font-weight:  600;
+    color: darkslategrey;
+    font-size: 15px;
 }
